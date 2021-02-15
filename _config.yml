@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "이연걸"
-  avatar           :  "/assets/img/me2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/assets/img/me3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "취직하게 해주세요...! <br/> 목표 - 1일 1포스팅"
   location         : "Busan, Korea"
   email            :

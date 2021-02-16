@@ -4,7 +4,7 @@ categories:
 - Algorithm
 tags:
 - Graph Algorithm
-- Union Find Algorithm
+- Disjoint Set Algorithm
 toc: true   #Table Of Contents 목차 
 use_math: true
 toc_sticky: true

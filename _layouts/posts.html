@@ -1,5 +1,6 @@
 ---
 layout: archive
+comments: true
 ---
 
 {{ content }}
@@ -31,3 +32,7 @@ layout: archive
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
+
+{% if page.comments != false %}
+	    {% include disqus_comments.html %}
+{% endif %}

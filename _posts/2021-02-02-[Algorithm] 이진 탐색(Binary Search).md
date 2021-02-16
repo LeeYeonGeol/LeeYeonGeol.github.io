@@ -2,6 +2,7 @@
 title: "[Algorithm] 이진 탐색"
 categories: 
 - Algorithm
+tags:
 - Binary Search
 toc: true   #Table Of Contents 목차 
 use_math: true

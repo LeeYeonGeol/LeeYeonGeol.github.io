@@ -2,6 +2,7 @@
 title: "[Algorithm] 기타 그래프 알고리즘"
 categories: 
 - Algorithm
+tags:
 - Graph Algorighm
 toc: true   #Table Of Contents 목차 
 use_math: true

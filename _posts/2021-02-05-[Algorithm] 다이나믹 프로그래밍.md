@@ -2,6 +2,7 @@
 title: "[Algorithm] 다이나믹 프로그래밍"
 categories: 
 - Algorithm
+tags:
 - Dynamic Programming
 toc: true   #Table Of Contents 목차 
 use_math: true

@@ -2,6 +2,7 @@
 title: "[Algorithm] 정렬 알고리즘"
 categories: 
 - Algorithm
+tags:
 - Sort
 toc: true   #Table Of Contents 목차 
 use_math: true

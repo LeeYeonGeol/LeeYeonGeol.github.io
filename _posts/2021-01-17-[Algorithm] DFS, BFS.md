@@ -2,6 +2,7 @@
 title: "[Algorithm] DFS/BFS"
 categories: 
 - Algorithm
+tags:
 - DFS/BFS
 toc: true   #Table Of Contents 목차 
 use_math: true

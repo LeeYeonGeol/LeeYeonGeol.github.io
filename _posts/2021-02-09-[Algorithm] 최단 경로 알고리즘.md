@@ -2,6 +2,7 @@
 title: "[Algorithm] 최단 경로 알고리즘"
 categories: 
 - Algorithm
+tags:
 - Shortest Path Algorithm
 toc: true   #Table Of Contents 목차 
 use_math: true

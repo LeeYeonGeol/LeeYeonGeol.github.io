@@ -5,8 +5,8 @@
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     
     var disqus_config = function () {
-    	this.page.url = '{{ page.url | absolute_url }}';
-    this.page.identifier = '{{ page.url | absolute_url }}';
+    	this.page.url = 'https://ygs-blog{{ page.url }}';
+    t	his.page.identifier = '{{ page.url }}';
     };
     
     (function() { // DON'T EDIT BELOW THIS LINE

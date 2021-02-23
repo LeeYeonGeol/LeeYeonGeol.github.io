@@ -54,7 +54,7 @@ Output: 1
 
 ## 답
 
-간단한 다이나믹 프로그래밍 문제이다. 시작을 1로 하고 2중 for문을 통해 dp 테이블을 갱신한다.
+[Unique Paths](https://leeyeongeol.github.io/leetcode/LeetCode-62%EB%B2%88-Unique-Paths/)의 후속 문제이다. 처음부터 1인 부분을 -1로 바꾸어서 할 수도 있지만.. 더 빠르게 처리하기 위해서 그냥 그대로 for문을 돌리다가 1을 만나면 -1로 바꿔주는식으로 하였다. 이렇게 하니 시작 혹은 마지막이 장애물인 경우가 예외가 생겼고 이를 앞에서 처리해주었다.
 
 ```python
 class Solution:

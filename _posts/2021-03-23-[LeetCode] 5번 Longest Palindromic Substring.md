@@ -67,8 +67,9 @@ class Solution:
 <p align='center'>
     <img src="https://user-images.githubusercontent.com/48538655/112102938-5df7dd80-8bec-11eb-84f9-c08d95a9923b.png" alt="image" style="zoom:80%;" />
 </p>
-
 ### 풀이 2
+
+2칸, 3칸으로 구성된 투 포인터가 슬라이딩 윈도우처럼 계속 앞으로 전진해나가는 방식이다.
 
 ```python
 class Solution:

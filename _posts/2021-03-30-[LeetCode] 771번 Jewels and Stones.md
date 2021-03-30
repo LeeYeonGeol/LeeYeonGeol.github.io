@@ -3,7 +3,7 @@ title: "[LeetCode] Jewels and Stones"
 categories: 
 - LeetCode
 tags:
-- 큐
+- 해시
 toc: true   #Table Of Contents 목차 
 use_math: true
 toc_sticky: true

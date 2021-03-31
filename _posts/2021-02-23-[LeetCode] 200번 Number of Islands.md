@@ -52,6 +52,8 @@ Output: 3
 
 ## 답
 
+### BFS를 활용한 풀이
+
 전형적인 DFS/BFS문제이다. BFS를 통해 해결하였다.
 
 ```python
@@ -83,4 +85,31 @@ class Solution:
         return cnt
 ```
 
+### DFS를 활용한 풀이
+
+```python
+class Solution:
+    def numIslands(self, grid: List[List[str]]) -> int:
+        n, m = len(grid), len(grid[0])
+        
+        def dfs(x, y, grid):
+            if x < 0 or y < 0 or x >= n or y >= m or grid[x][y] != '1':
+                return
+            
+            grid[x][y] = "0"
+            bfs(x+1,y,grid)
+            bfs(x,y+1,grid)
+            bfs(x-1,y,grid)
+            bfs(x,y-1,grid)
+             
+        cnt = 0
+        for x in range(n):
+            for y in range(m):
+                if grid[x][y] == "1":
+                    dfs(x, y, grid)  
+                    cnt += 1    
+        return cnt
+                
+
+```
 

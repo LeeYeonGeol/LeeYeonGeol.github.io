@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "끊임없이 연구하는 개발자가 되자"
+title                    : "알고리즘 문제풀이 저장소"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이연걸"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "이연걸"
   avatar           :  "/assets/img/me.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "취직하게 해주세요...! <br/> 목표 - 1일 1포스팅"
+  bio              : "끊임없이 연구하는 개발자가 되자 <br/> 취직하게 해주세요...!"
   location         : "Busan, Korea"
   email            :
   links:

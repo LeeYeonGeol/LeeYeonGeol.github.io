@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "이연걸"
   avatar           :  "/assets/img/me.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "끊임없이 연구하는 개발자가 되자 <br/> 취직하게 해주세요...!"
+  bio              : "끊임없이 연구하는 개발자가 되자"
   location         : "Busan, Korea"
   email            :
   links:
